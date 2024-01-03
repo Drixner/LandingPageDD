@@ -1,0 +1,20 @@
+/* seccion HERO */
+.background {
+  background-image: url("/assets/img/bg-2-1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.slider {
+  display: flex;
+  overflow-x: hidden;
+}
+
+.slide {
+  flex: 0 0 auto;
+  margin-right: 2rem;
+  width: 200px; /* Adjust as needed */
+}
+
+/* test */
